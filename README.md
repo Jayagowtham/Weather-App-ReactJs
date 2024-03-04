@@ -21,3 +21,4 @@
 - JavaScript: Used for handling user interactions and displaying weather data.
 - Weather API: Integrated to fetch real-time weather information.
 - HTML/CSS: Provides the structure and styling for the application
+  ![Result_img_Weather_App](WeatherApp-result.jpg)
